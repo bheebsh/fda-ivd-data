@@ -1,0 +1,5 @@
+# Generated python files
+*.pyc
+
+# Misc
+*.swp
